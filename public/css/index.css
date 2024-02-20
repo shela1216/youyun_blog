@@ -3136,8 +3136,6 @@ h1.page-title + .tag-cloud-list {
   background: #ff5f3b;
   background-attachment: scroll;
   background-position: bottom;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
 }
 #footer-wrap {
@@ -3166,8 +3164,6 @@ h1.page-title + .tag-cloud-list {
   width: 100%;
   background-color: #ff5f3b;
   background-position: center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
   -webkit-transition: all 0.5s;
@@ -4094,8 +4090,8 @@ h1.page-title + .tag-cloud-list {
   text-decoration: underline;
 }
 #article-container img {
-  display: block;
-  margin: 0 auto 20px;
+  display: inline-block;
+  margin: 0 0 20px 0px;
   max-width: 100%;
   -webkit-transition: filter 375ms ease-in 0.2s;
   -moz-transition: filter 375ms ease-in 0.2s;

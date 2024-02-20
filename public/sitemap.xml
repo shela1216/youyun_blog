@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yuyun_blog.majitoo.net/2024/02/20/group/note/</loc>
+    <loc>https://yuyun_blog.majitoo.net/2024/02/20/work/work1/</loc>
     
     <lastmod>2024-02-20</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://yuyun_blog.majitoo.net/tags/index.html</loc>
+    <loc>https://yuyun_blog.majitoo.net/2024/02/20/group/rule/</loc>
     
     <lastmod>2024-02-20</lastmod>
     
@@ -21,6 +21,15 @@
   
   <url>
     <loc>https://yuyun_blog.majitoo.net/link/index.html</loc>
+    
+    <lastmod>2024-02-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuyun_blog.majitoo.net/tags/index.html</loc>
     
     <lastmod>2024-02-20</lastmod>
     
@@ -60,10 +69,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://yuyun_blog.majitoo.net/tags/%E8%81%B7%E6%A5%AD-%E5%A5%B6%E5%AA%BD-%E6%9C%8D%E4%BA%8B/</loc>
+    <lastmod>2024-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
     <loc>https://yuyun_blog.majitoo.net/categories/%E6%97%85%E5%9C%98%E4%BA%8B%E5%8B%99/</loc>
+    <lastmod>2024-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuyun_blog.majitoo.net/categories/%E8%81%B7%E6%A5%AD%E5%BF%83%E5%BE%97/</loc>
     <lastmod>2024-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
