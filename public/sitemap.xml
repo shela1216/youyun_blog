@@ -76,6 +76,27 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://yuyun_blog.majitoo.net/tags/%E8%81%B7%E6%A5%AD/</loc>
+    <lastmod>2024-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuyun_blog.majitoo.net/tags/%E5%A5%B6%E5%AA%BD/</loc>
+    <lastmod>2024-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuyun_blog.majitoo.net/tags/%E6%9C%8D%E4%BA%8B/</loc>
+    <lastmod>2024-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
