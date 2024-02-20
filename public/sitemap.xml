@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blogyouyun.majitoo.net/tags/index.html</loc>
+    <loc>https://yuyun_blog.majitoo.net/2024/02/20/group/note/</loc>
     
     <lastmod>2024-02-20</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://blogyouyun.majitoo.net/link/index.html</loc>
+    <loc>https://yuyun_blog.majitoo.net/tags/index.html</loc>
     
     <lastmod>2024-02-20</lastmod>
     
@@ -20,7 +20,16 @@
   </url>
   
   <url>
-    <loc>https://blogyouyun.majitoo.net/categories/index.html</loc>
+    <loc>https://yuyun_blog.majitoo.net/link/index.html</loc>
+    
+    <lastmod>2024-02-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuyun_blog.majitoo.net/categories/index.html</loc>
     
     <lastmod>2024-02-20</lastmod>
     
@@ -30,13 +39,41 @@
   
 
   <url>
-    <loc>https://blogyouyun.majitoo.net/</loc>
+    <loc>https://yuyun_blog.majitoo.net/</loc>
     <lastmod>2024-02-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>https://yuyun_blog.majitoo.net/tags/%E6%97%85%E5%9C%98%E5%85%AC%E5%91%8A/</loc>
+    <lastmod>2024-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuyun_blog.majitoo.net/tags/%E5%85%AC%E5%91%8A/</loc>
+    <lastmod>2024-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://yuyun_blog.majitoo.net/categories/%E6%97%85%E5%9C%98%E4%BA%8B%E5%8B%99/</loc>
+    <lastmod>2024-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuyun_blog.majitoo.net/categories/%E6%97%85%E5%9C%98%E4%BA%8B%E5%8B%99/%E6%97%85%E5%9C%98%E5%85%AC%E5%91%8A/</loc>
+    <lastmod>2024-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
