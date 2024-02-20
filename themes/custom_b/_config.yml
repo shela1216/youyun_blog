@@ -3,7 +3,6 @@
 # --------------------------------------
 
 menu:
-  # 官網: //yuyun.majitoo.net|| fas fa-home
   攻略首頁: / || fas fa-home
   # 關於: /about/ || fas fa-heart
   目錄||fas fa-list||hide:
